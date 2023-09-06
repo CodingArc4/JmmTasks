@@ -1,0 +1,8 @@
+D:\DelegatesC#\Single_cast_delegate\bin\Debug\Single_cast_delegate.exe.config
+D:\DelegatesC#\Single_cast_delegate\bin\Debug\Single_cast_delegate.exe
+D:\DelegatesC#\Single_cast_delegate\bin\Debug\Single_cast_delegate.pdb
+D:\DelegatesC#\Single_cast_delegate\obj\Debug\Single_cast_delegate.csproj.AssemblyReference.cache
+D:\DelegatesC#\Single_cast_delegate\obj\Debug\Single_cast_delegate.csproj.SuggestedBindingRedirects.cache
+D:\DelegatesC#\Single_cast_delegate\obj\Debug\Single_cast_delegate.csproj.CoreCompileInputs.cache
+D:\DelegatesC#\Single_cast_delegate\obj\Debug\Single_cast_delegate.exe
+D:\DelegatesC#\Single_cast_delegate\obj\Debug\Single_cast_delegate.pdb

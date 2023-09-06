@@ -1,0 +1,8 @@
+D:\Events\Events\bin\Debug\Events.exe.config
+D:\Events\Events\bin\Debug\Events.exe
+D:\Events\Events\bin\Debug\Events.pdb
+D:\Events\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+D:\Events\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+D:\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+D:\Events\Events\obj\Debug\Events.exe
+D:\Events\Events\obj\Debug\Events.pdb

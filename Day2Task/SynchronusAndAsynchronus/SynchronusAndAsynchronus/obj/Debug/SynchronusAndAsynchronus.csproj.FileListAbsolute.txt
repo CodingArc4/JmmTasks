@@ -1,0 +1,11 @@
+D:\SynchronusAndAsynchronus\SynchronusAndAsynchronus\bin\Debug\SynchronusAndAsynchronus.exe.config
+D:\SynchronusAndAsynchronus\SynchronusAndAsynchronus\bin\Debug\SynchronusAndAsynchronus.exe
+D:\SynchronusAndAsynchronus\SynchronusAndAsynchronus\bin\Debug\SynchronusAndAsynchronus.pdb
+D:\SynchronusAndAsynchronus\SynchronusAndAsynchronus\obj\Debug\SynchronusAndAsynchronus.csproj.AssemblyReference.cache
+D:\SynchronusAndAsynchronus\SynchronusAndAsynchronus\obj\Debug\SynchronusAndAsynchronus.csproj.SuggestedBindingRedirects.cache
+D:\SynchronusAndAsynchronus\SynchronusAndAsynchronus\obj\Debug\SynchronusAndAsynchronus.Form1.resources
+D:\SynchronusAndAsynchronus\SynchronusAndAsynchronus\obj\Debug\SynchronusAndAsynchronus.Properties.Resources.resources
+D:\SynchronusAndAsynchronus\SynchronusAndAsynchronus\obj\Debug\SynchronusAndAsynchronus.csproj.GenerateResource.cache
+D:\SynchronusAndAsynchronus\SynchronusAndAsynchronus\obj\Debug\SynchronusAndAsynchronus.csproj.CoreCompileInputs.cache
+D:\SynchronusAndAsynchronus\SynchronusAndAsynchronus\obj\Debug\SynchronusAndAsynchronus.exe
+D:\SynchronusAndAsynchronus\SynchronusAndAsynchronus\obj\Debug\SynchronusAndAsynchronus.pdb
